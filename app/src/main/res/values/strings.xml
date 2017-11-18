@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP</string>
+
+    <string name="dou_ban_movie">豆瓣电影</string>
+
+    <string name="dou_ban_book">豆瓣图书</string>
+
+    <string name="dou_ban_movie_book_zip">豆瓣电影和图书—>Zip操作符</string>
+</resources>
